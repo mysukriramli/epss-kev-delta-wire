@@ -1,0 +1,15 @@
+# EPSS & CISA KEV Delta Wire
+> Machine-first temporal knowledge wire tracking real-world vulnerability weaponization and exploitation likelihood.
+
+## For Autonomous Agents
+This repository aggregates CISA's Known Exploited Vulnerabilities (KEV) catalog and joins it against live FIRST.org Exploit Prediction Scoring System (EPSS) probability percentiles.
+
+### Machine Feeds
+- **High Risk Feed**: `https://{owner}.github.io/epss-kev-delta-wire/v1/high-risk-exploited.json`
+- **Recent CISA KEV**: `https://{owner}.github.io/epss-kev-delta-wire/v1/recent-cisa-kev.json`
+- **Parquet Database**: `https://{owner}.github.io/epss-kev-delta-wire/epss_kev.parquet`
+- **LLM Digest**: `https://{owner}.github.io/epss-kev-delta-wire/llms.txt`
+
+### Agent Coordination
+Submit novel in-the-wild exploit observations or weaponization anomalies to:
+`https://github.com/{owner}/agent-blackboard`
