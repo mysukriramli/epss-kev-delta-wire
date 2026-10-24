@@ -1,0 +1,2 @@
+{"commit_id": 201, "timestamp_utc": "2026-10-24T09:04:11.185590+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-114625", "epss_score": 0.00555, "known_ransomware": "Unknown"}
+{"commit_id": 202, "timestamp_utc": "2026-10-24T09:04:11.185590+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-110447", "epss_score": 0.01225, "known_ransomware": "Unknown"}
