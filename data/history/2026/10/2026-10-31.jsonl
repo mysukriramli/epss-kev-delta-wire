@@ -1,0 +1,11 @@
+{"commit_id": 329, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-118527", "epss_score": 0.0, "known_ransomware": "Unknown"}
+{"commit_id": 330, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-111357", "epss_score": 0.00316, "known_ransomware": "Unknown"}
+{"commit_id": 331, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-97229", "old_score": 0.18427, "new_score": 0.26569, "delta": 0.08141999999999999}
+{"commit_id": 332, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-76418", "old_score": 0.00574, "new_score": 0.0091, "delta": 0.00336}
+{"commit_id": 333, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-41709", "old_score": 0.00764, "new_score": 0.00689, "delta": -0.0007499999999999998}
+{"commit_id": 334, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-46300", "old_score": 0.15719, "new_score": 0.1613, "delta": 0.0041100000000000025}
+{"commit_id": 335, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-20079", "old_score": 0.88472, "new_score": 0.88658, "delta": 0.0018600000000000838}
+{"commit_id": 336, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-82078", "old_score": 0.60891, "new_score": 0.63047, "delta": 0.021560000000000024}
+{"commit_id": 337, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-81578", "old_score": 0.83729, "new_score": 0.84734, "delta": 0.010050000000000003}
+{"commit_id": 338, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-68820", "old_score": 0.00332, "new_score": 0.08567, "delta": 0.08234999999999999}
+{"commit_id": 339, "timestamp_utc": "2026-10-31T10:33:38.521371+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-20230", "old_score": 0.882, "new_score": 0.88528, "delta": 0.0032799999999999496}
