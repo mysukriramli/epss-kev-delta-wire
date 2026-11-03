@@ -1,0 +1,2 @@
+{"commit_id": 346, "timestamp_utc": "2026-11-03T12:15:59.917152+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2025-39964", "old_score": 0.0157, "new_score": 0.01607, "delta": 0.00037000000000000227}
+{"commit_id": 347, "timestamp_utc": "2026-11-03T12:15:59.917152+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-0257", "old_score": 0.95012, "new_score": 0.95642, "delta": 0.006300000000000083}
