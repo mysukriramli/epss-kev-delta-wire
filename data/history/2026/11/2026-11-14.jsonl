@@ -1,0 +1,6 @@
+{"commit_id": 440, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-114713", "epss_score": 0.00302, "known_ransomware": "Unknown"}
+{"commit_id": 441, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "KEV_INGESTED", "cve_id": "CVE-2026-123039", "epss_score": 0.01274, "known_ransomware": "Unknown"}
+{"commit_id": 442, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-20320", "old_score": 0.0082, "new_score": 0.00976, "delta": 0.0015599999999999989}
+{"commit_id": 443, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-111560", "old_score": 0.06196, "new_score": 0.09082, "delta": 0.028859999999999997}
+{"commit_id": 444, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-116606", "old_score": 0.08934, "new_score": 0.10947, "delta": 0.020129999999999995}
+{"commit_id": 445, "timestamp_utc": "2026-11-14T11:42:30.204222+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-84869", "old_score": 0.00924, "new_score": 0.01173, "delta": 0.002490000000000001}
