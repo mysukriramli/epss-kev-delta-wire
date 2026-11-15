@@ -1,0 +1,6 @@
+{"commit_id": 446, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-114713", "old_score": 0.00302, "new_score": 0.00508, "delta": 0.00206}
+{"commit_id": 447, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-123039", "old_score": 0.01274, "new_score": 0.02191, "delta": 0.00917}
+{"commit_id": 448, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-96656", "old_score": 0.01785, "new_score": 0.19767, "delta": 0.17982}
+{"commit_id": 449, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-96654", "old_score": 0.01949, "new_score": 0.12689, "delta": 0.1074}
+{"commit_id": 450, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2026-28318", "old_score": 0.48001, "new_score": 0.87267, "delta": 0.39265999999999995}
+{"commit_id": 451, "timestamp_utc": "2026-11-15T12:12:08.110843+00:00", "operation": "SCORE_DELTA", "cve_id": "CVE-2025-48595", "old_score": 0.01947, "new_score": 0.01995, "delta": 0.0004799999999999978}
